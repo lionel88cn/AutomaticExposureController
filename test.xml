@@ -1,0 +1,17 @@
+<!DOCTYPE AECXML>
+<actionList>
+ <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/binaryImage.bmp" Type="0"/>
+ <Action Data="1000" Type="3"/>
+ <Action Data="1" Type="1"/>
+ <Action Data="2000" Type="3"/>
+ <Action Data="0" Type="1"/>
+ <Action Data="10" Type="2"/>
+ <Action Data="5000" Type="3"/>
+ <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/binaryImage1.bmp" Type="0"/>
+ <Action Data="1000" Type="3"/>
+ <Action Data="1" Type="1"/>
+ <Action Data="2000" Type="3"/>
+ <Action Data="0" Type="1"/>
+ <Action Data="10" Type="2"/>
+ <Action Data="5000" Type="3"/>
+</actionList>

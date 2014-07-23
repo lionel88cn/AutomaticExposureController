@@ -1,0 +1,80 @@
+<!DOCTYPE AECXML>
+<actionList>
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/0.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/1.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/2.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/3.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/4.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/5.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/6.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/7.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/8.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/testSeq/9.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="2000" Type="3"/>
+  <Action Data="0" Type="1"/>
+</actionList>

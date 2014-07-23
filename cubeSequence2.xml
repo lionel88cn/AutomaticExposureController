@@ -1,0 +1,65 @@
+<!DOCTYPE AECXML>
+<actionList>
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/1.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/2.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/3.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/4.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/5.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/6.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+  
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/7.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+  <Action Data="-3" Type="2"/>
+
+  <Action Data="H:/WorkSpace/Qt/AutomaticExposureController/cubeSeq2/8.bmp" Type="0"/>
+  <Action Data="10000" Type="3"/>
+  <Action Data="1" Type="1"/>
+  <Action Data="3000" Type="3"/>
+  <Action Data="0" Type="1"/>
+  <Action Data="500" Type="3"/>
+</actionList>

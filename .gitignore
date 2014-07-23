@@ -34,3 +34,14 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+Degug/
+cubeSeq/
+cubeSeq2/
+GeneratedFiles/
+ipch/
+Resources/
+testSeq/
+testSeq1/
+Win32/
+
